@@ -1,0 +1,1 @@
+{"name":"Local: M_Capital_or_Small_or_Digit","url":"e:\\c++\\module2\\M_Capital_or_Small_or_Digit.cpp","tests":[{"id":1684928762578,"input":"A","output":"ALPHA\nIS CAPITAL"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\c++\\module2\\M_Capital_or_Small_or_Digit.cpp","group":"local","local":true}
